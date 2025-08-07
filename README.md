@@ -1,6 +1,6 @@
 # MERN Chatbot
 
-![MERN Chatbot](https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png)
+![MERN Chatbot](https://github.com/Deep131203/ChatApp/blob/main/Preview.png)
 
 A real-time chat application built with the MERN (MongoDB, Express.js, React.js, Node.js) stack featuring a responsive WhatsApp-like interface.
 
